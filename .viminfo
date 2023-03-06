@@ -11,14 +11,14 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1678020476,,"wq!"
 :wq
-|2,0,1677919824,,"wq"
+|2,0,1678020429,,"wq"
 :q
 |2,0,1677919808,,"q"
 :Q1
 |2,0,1677919795,,"Q1"
-:wq!
-|2,0,1677919521,,"wq!"
 :"wq!
 |2,0,1677918826,,"\"wq!"
 :wqall
@@ -36,42 +36,56 @@
 
 # Registers:
 ""-	CHAR	0
-	f
-|3,1,36,0,1,0,1677655625,"f"
+	h
+|3,1,36,0,1,0,1678020465,"h"
 
 # File marks:
-'0  1  10  ~/chandu/.gitignore
-|4,48,1,10,1677919824,"~/chandu/.gitignore"
-'1  5  5  ~/chandu/.gitignore
-|4,49,5,5,1677919559,"~/chandu/.gitignore"
-'2  1  9  ~/chandu/.gitignore
-|4,50,1,9,1677919521,"~/chandu/.gitignore"
-'3  5  4  ~/chandu/.gitignore
-|4,51,5,4,1677919521,"~/chandu/.gitignore"
-'4  1  12  ~/chandu/.gitignore
-|4,52,1,12,1677919301,"~/chandu/.gitignore"
+'0  1  23  ~/practice/chandu
+|4,48,1,23,1678025050,"~/practice/chandu"
+'1  1  10  ~/chandu/.gitignore
+|4,49,1,10,1677919824,"~/chandu/.gitignore"
+'2  5  5  ~/chandu/.gitignore
+|4,50,5,5,1677919559,"~/chandu/.gitignore"
+'3  1  9  ~/chandu/.gitignore
+|4,51,1,9,1677919521,"~/chandu/.gitignore"
+'4  5  4  ~/chandu/.gitignore
+|4,52,5,4,1677919521,"~/chandu/.gitignore"
 '5  1  12  ~/chandu/.gitignore
 |4,53,1,12,1677919301,"~/chandu/.gitignore"
 '6  1  12  ~/chandu/.gitignore
 |4,54,1,12,1677919301,"~/chandu/.gitignore"
 '7  1  12  ~/chandu/.gitignore
 |4,55,1,12,1677919301,"~/chandu/.gitignore"
-'8  3  0  ~/chandu/.gitignore
-|4,56,3,0,1677919301,"~/chandu/.gitignore"
+'8  1  12  ~/chandu/.gitignore
+|4,56,1,12,1677919301,"~/chandu/.gitignore"
 '9  3  0  ~/chandu/.gitignore
 |4,57,3,0,1677919301,"~/chandu/.gitignore"
 
 # Jumplist (newest first):
+-'  1  23  ~/practice/chandu
+|4,39,1,23,1678025050,"~/practice/chandu"
+-'  1  10  ~/chandu/.gitignore
+|4,39,1,10,1677919824,"~/chandu/.gitignore"
 -'  1  10  ~/chandu/.gitignore
 |4,39,1,10,1677919824,"~/chandu/.gitignore"
 -'  5  5  ~/chandu/.gitignore
 |4,39,5,5,1677919559,"~/chandu/.gitignore"
+-'  5  5  ~/chandu/.gitignore
+|4,39,5,5,1677919559,"~/chandu/.gitignore"
+-'  5  4  ~/chandu/.gitignore
+|4,39,5,4,1677919521,"~/chandu/.gitignore"
 -'  5  4  ~/chandu/.gitignore
 |4,39,5,4,1677919521,"~/chandu/.gitignore"
 -'  3  0  ~/chandu/.gitignore
 |4,39,3,0,1677919488,"~/chandu/.gitignore"
 -'  3  0  ~/chandu/.gitignore
 |4,39,3,0,1677919488,"~/chandu/.gitignore"
+-'  3  0  ~/chandu/.gitignore
+|4,39,3,0,1677919488,"~/chandu/.gitignore"
+-'  3  0  ~/chandu/.gitignore
+|4,39,3,0,1677919488,"~/chandu/.gitignore"
+-'  3  0  ~/chandu/.gitignore
+|4,39,3,0,1677919301,"~/chandu/.gitignore"
 -'  3  0  ~/chandu/.gitignore
 |4,39,3,0,1677919301,"~/chandu/.gitignore"
 -'  4  4  ~/chandu/.gitignore
@@ -80,6 +94,44 @@
 |4,39,4,4,1677919279,"~/chandu/.gitignore"
 -'  4  4  ~/chandu/.gitignore
 |4,39,4,4,1677919279,"~/chandu/.gitignore"
+-'  4  4  ~/chandu/.gitignore
+|4,39,4,4,1677919279,"~/chandu/.gitignore"
+-'  4  4  ~/chandu/.gitignore
+|4,39,4,4,1677919279,"~/chandu/.gitignore"
+-'  4  4  ~/chandu/.gitignore
+|4,39,4,4,1677919279,"~/chandu/.gitignore"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
+-'  1  6  ~/chandu/aishu
+|4,39,1,6,1677918861,"~/chandu/aishu"
 -'  1  6  ~/chandu/aishu
 |4,39,1,6,1677918861,"~/chandu/aishu"
 -'  1  6  ~/chandu/aishu
@@ -176,94 +228,49 @@
 |4,39,1,14,1677918849,"~/chandu/nithin"
 -'  1  14  ~/chandu/nithin
 |4,39,1,14,1677918849,"~/chandu/nithin"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
--'  1  6  ~/chandu/chandu
-|4,39,1,6,1677918836,"~/chandu/chandu"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
+-'  1  14  ~/chandu/nithin
+|4,39,1,14,1677918849,"~/chandu/nithin"
 
 # History of marks within files (newest to oldest):
+
+> ~/practice/chandu
+	*	1678025050	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
 
 > ~/chandu/.gitignore
 	*	1677919822	0
@@ -411,10 +418,3 @@
 	.	13	5
 	+	2	9
 	+	13	5
-
-> ~/directory10/basi2
-	*	1677525179	0
-	"	3	0
-	^	3	0
-	.	2	5
-	+	2	5

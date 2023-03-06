@@ -1,89 +1,3 @@
-ls -latr
-pwd
-ls -latr
-cd gittest/
-ls
-ls -latr
-ls -latr \grep chandu
-ls -latr \grep gittool
-ls -latr \grep gittttest
-su
-sudo 
-sudo su
-ls
-rm -rf gittest
-ls
-mkdir gittest2
-ls
-clear
-cd gittest2/
-ls -latr
-git init
-touch file1 file2 file3 file4
-ls
-vi file1
-vi file2
-vi file3
-vi file4
-git status
-git add ..
-git add .
-git status
-git commit -m "adding files"
-git log
-git show
-git clone https://github.com/priyachandu07/chandu.git
-ls
-git push
-git remote add origin https://github.com/priyachandu07/chandu.git
-git push
-git branch -M main
-git push -u origin main
-git pull
-git pull origin main
-ls
-clear
-ls
-touch nithin
-ls
-vi nithin
-git add nithin
-git commit -m "adding nithin"
-git remote add origin https://github.com/priyachandu07/chandu.git
-git push -u origin main
-git push
-git push origin main
-git remote remove origin
-git origin
-git origin -v
-git remote -v
-git remote add origin https://github.com/priyachandu07/chandu.git
-git push -u origin main
-clear
-ls
-cd ..
-ls
-sudo rm -rf gittest2/
-ls
-cd directory1
-ls
-cd ..
-cd directory10
-ls
-git init
-git clone https://github.com/priyachandu07/gfhgfh.git
-ls
-git status
-git add file2
-git commit -m "adding files"
-git remote add origin https://github.com/priyachandu07/gfhgfh.git
-git branch -M main
-git push -u origin main
-clear
-touch basi1 basi2
-vi basi
-vi basi2
-git status
 git add ..
 git add .
 git add basi2
@@ -998,3 +912,89 @@ git stash list
 git stash apply stash@{0}
 git stash apply stash@{1}
 clear
+sudo su
+history
+clear
+which git
+mkdir chandu
+ls
+cd chandu/
+git init
+rm -rf chandu 
+ls
+rm -rf chandu f1 f2 p3
+clear
+ls -latr
+cd ..
+ls
+rm -rf chandu/
+ec2-user
+pwd
+sudo su
+which git
+mkdir chandu
+ls
+rm -rf chandu/
+clear
+ls
+rm -rf chandu/
+clear
+ls
+rm -rf chandu/
+ls -latr
+cd chandu/
+rm -rf chandu 
+ls -latr
+clear
+ls
+ls -latr
+rm -rf .gitignore
+clear
+cd ..
+ls
+rm -rf chandu/
+clear
+pwd
+ls
+cd chandu
+clear
+cd ..
+su
+ls
+cd chandu
+ls
+mv chandu f
+rm -rf f1
+ls
+ls -latr
+cat .gitignore
+rm -rf .gitignore
+whoami
+sudo su
+ls
+ls-latr
+ls -latr
+rm -rf .gitignore
+ls -latr
+clear
+sudo su
+pwd
+sudo su
+ls
+cd practice/
+ls -latr
+git remote add origin https://github.com/priyachandu07/VProfile.git
+git remote -v
+git config --global --add safe.directory /home/ec2-user/practice
+git status
+git pull origin master
+vi chandu
+git add
+git add candu
+git add chandu
+git status
+git commit -m "gfhdhf"
+git status
+git push origin master
+pwd
+sudo su
